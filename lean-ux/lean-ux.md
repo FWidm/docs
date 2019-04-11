@@ -54,9 +54,11 @@ Starting point for a project is the **hypothesis**.
   - Which features are needed to achieve the desired outcomes. Serves business, customers and users first
   - Brainstorm &rarr; Cluster into themes
   - Hypothesis creation table:
+  
     | We will (create) | For | In order to achieve  |
-    | :------------- | :------------- | ------- |
+    | ------------- | ------------- | ------- |
     | [Feature]      | [Persona]      | [Outcome] |
+    
   - One feature drives more than one outcome &rarr; split hypotheses into 1 statement with exactly one outcome.
 
 ## Assumptions
